@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Free Fire Sensitivity AI",
+  "description": "An AI-powered tool that generates optimal Free Fire sensitivity settings based on your phone's specifications, including model, RAM, screen size, and gyroscope status. Get recommended values for all scopes and DPI for better performance.",
+  "requestFramePermissions": []
+}
